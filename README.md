@@ -1,6 +1,6 @@
 # Data-Visualization-with-Bokeh
 
-![Image of Bokeh](https://www.google.com/search?q=bokeh+libary&tbm=isch&ved=2ahUKEwiX5sbol8LxAhVBqEsFHS5vA2MQ2-cCegQIABAA&oq=bokeh+libary&gs_lcp=CgNpbWcQAzoHCAAQsQMQQzoFCAAQsQM6BAgAEEM6AggAUKc6WMFSYNlXaABwAHgAgAGYAYgBzAaSAQMwLjeYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=Et_dYJeVJcHQrtoPrt6NmAY&bih=664&biw=1536&rlz=1C1CHBF_enIN913IN913#imgrc=zODbwpfLdJ31dM)
+![Image of Bokeh](https://github.com/RanjitM007/Data-Visualization-with-Bokeh/blob/main/Bokeh-Logo-Twitter.png?raw=true)
 
 
 Bokeh is a Python library for creating interactive visualizations for modern web browsers. It helps you build beautiful graphics, ranging from simple plots to complex dashboards with streaming datasets. With Bokeh, you can create JavaScript-powered visualizations without writing any JavaScript yourself.
